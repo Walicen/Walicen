@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Walicen 👋 </h1>
 <h3 align="center">🚀 Software Developer 🚀</h3>
 
-- 🔭 I’m currently working as a Flutter Developer
+- 🔭 I’m currently working as a Flutter Developer 💙
 - 🎓 I'm currently studying software engineering degree
 - 💻 I like linux a lot
 
