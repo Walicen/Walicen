@@ -6,6 +6,6 @@
 - 💻 I ❤ Linux 🐧
 
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/walicen-dalazuana/)
-  , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:walicen.r@gmail.com)
+  , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walicen.r@gmail.com)](mailto:walicen.r@gmail.com)
 
-![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=walicen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+![Walicen github stats](https://github-readme-stats.vercel.app/api?username=walicen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
