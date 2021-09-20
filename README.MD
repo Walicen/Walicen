@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Software Developer 🚀</h3>
 
 - 🔭 I’m currently working as a Flutter Developer 💙
-- 🎓 I'm currently studying software engineering
-- 💻 I like linux a lot
+- 🎓 I'm currently studying Software Engineering
+- 💻 I ❤ Linux 🐧
 
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/walicen-dalazuana/)
   , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:walicen.r@gmail.com)
